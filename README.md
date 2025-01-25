@@ -8,7 +8,7 @@ A crime has been committed in our quiet town. The police have narrowed down the 
 
 ## How to Investigate
 
-### Using the Detective's Notebook
+### Using the Detective's Notebooks
 
 When you start the game, you'll find a `notebook.md` file in your game directory. This notebook contains:
 - A list of possible suspects
