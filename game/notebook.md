@@ -9,6 +9,9 @@ Go back and check the stockroom in the shops.
 Clue 3:
 Go back and check the records in the town hall.
 
+CLue 4: 
+Go to the bakery in the shops.
+
 ## Suspects
 - [ ] The Clockmaker
 - [ ] The Shopkeeper
