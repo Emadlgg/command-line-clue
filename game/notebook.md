@@ -1,5 +1,8 @@
 # Detective's Notebook
 
+Clue 1:
+Go back and check the sandbox in the park.
+
 ## Suspects
 - [ ] The Clockmaker
 - [ ] The Shopkeeper
