@@ -6,6 +6,9 @@ Go back and check the sandbox in the park.
 Clue 2:
 Go back and check the stockroom in the shops.
 
+Clue 3:
+Go back and check the records in the town hall.
+
 ## Suspects
 - [ ] The Clockmaker
 - [ ] The Shopkeeper
